@@ -1,0 +1,25 @@
+
+.forms{
+    background-image: url('https://cdn.shortpixel.ai/client/to_webp,q_lossless,ret_img,w_1920,h_1080/https://patkay.com/wp-content/uploads/2018/11/Best-export-settings-for-Instagram-2018.jpg');
+    background-position: center;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    margin-left: 0px;
+    margin-right: 0px
+}
+
+a:hover{
+    color: gray;
+    text-decoration: none
+}
+
+
+.modal-header{
+    display: initial
+}

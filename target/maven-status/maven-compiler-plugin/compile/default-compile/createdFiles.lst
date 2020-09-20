@@ -1,0 +1,8 @@
+com\dao\PostDao.class
+com\servlets\LoginServlet.class
+com\entities\Post.class
+com\dao\UserDao.class
+com\entities\User.class
+com\servlets\SignUpServlet.class
+com\helpers\FactoryProvider.class
+com\servlets\UploadServlet.class
