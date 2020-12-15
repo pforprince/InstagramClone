@@ -1,0 +1,2 @@
+Instagram clone - I  have made this web application using Java.
+All those features which we have in Instagram application are there in this app. Users can perform almost all the operations we have in the real Instagram application. Users can signup, login, upload a post, update it, delete it, like it, unlike, follow user, unfollow user, search someone, message someone, settings, update profile all those required features are implemented using Java. For designing, I have used HTML, CSS & Bootstrap
